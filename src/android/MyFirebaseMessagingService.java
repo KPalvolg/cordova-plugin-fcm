@@ -23,7 +23,7 @@ import com.google.firebase.messaging.RemoteMessage;
 import org.json.JSONException;
 import org.json.JSONObject;
 
-import com.accordant.conditionadvisor.MainActivity;
+import com.mld.mylabsdirect.MainActivity;
 /**
  * Created by Felipe Echanique on 08/06/2016.
  */
